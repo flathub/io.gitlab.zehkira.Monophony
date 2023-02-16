@@ -85,8 +85,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/fd/ea/83b233bfeb134b4b5313880b0f89c866f83f15a5c1abe7c2b6eca31fd8bb/Nuitka-1.4.2.tar.gz",
-                    "sha256": "4dfb383f1328719c766801cd4ffb332b499dec92fafe6ef16a1c137517ec395d"
+                    "url": "https://files.pythonhosted.org/packages/19/b7/2ff49170a3ef4c04c6973e704b4f8c54c88508ba8f31a2a580472b3e46f0/Nuitka-1.4.7.tar.gz",
+                    "sha256": "ea7ef24c088afe15fd1daa96c455bb4d4b34183c310ea33f7916a0e616169467"
                 }
             ]
         },
@@ -140,6 +140,45 @@
                     "type": "file",
                     "url": "https://files.pythonhosted.org/packages/33/55/af02708f230eb77084a299d7b08175cff006dea4f2721074b92cdb0296c0/ordered_set-4.1.0-py3-none-any.whl",
                     "sha256": "046e1132c71fcf3330438a539928932caf51ddbc582496833e23de611de14562"
+                }
+            ]
+        },
+        {
+            "name": "python3-mpris_server",
+            "buildsystem": "simple",
+            "build-commands": [
+                "pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"mpris_server\" --no-build-isolation"
+            ],
+            "sources": [
+                {
+                    "type": "file",
+                    "url": "https://files.pythonhosted.org/packages/fe/40/9afaeb8d3b453fb8596fcb6c7bc2b64e434868c91eda19955742778eff74/PyGObject-3.42.2.tar.gz",
+                    "sha256": "21524cef33100c8fd59dc135948b703d79d303e368ce71fa60521cc971cd8aa7"
+                },
+                {
+                    "type": "file",
+                    "url": "https://files.pythonhosted.org/packages/be/ea/90e14e807da5a39e5b16789acacd48d63ca3e4f23dfa964a840eeadebb13/Unidecode-1.3.6-py3-none-any.whl",
+                    "sha256": "547d7c479e4f377b430dd91ac1275d593308dce0fc464fb2ab7d41f82ec653be"
+                },
+                {
+                    "type": "file",
+                    "url": "https://files.pythonhosted.org/packages/68/8a/b08dd0b946f0843cba782e3784cd979c33f144e5e7c37fb0162dc47acd43/emoji-1.7.0.tar.gz",
+                    "sha256": "65c54533ea3c78f30d0729288998715f418d7467de89ec258a31c0ce8660a1d1"
+                },
+                {
+                    "type": "file",
+                    "url": "https://files.pythonhosted.org/packages/b0/46/28c2ea8b0f338400fc821c938dd15d6c4c9564c6198ff9fd09bfd9b7b0ea/mpris_server-0.4.2-py2.py3-none-any.whl",
+                    "sha256": "4b34e732f6f0c6b9a6a03d3a3d9962a5e538c67ddda2051991216a1bae626ec0"
+                },
+                {
+                    "type": "file",
+                    "url": "https://files.pythonhosted.org/packages/69/ca/9e9fa2e8be0876a9bbf046a1be7ee33e61d4fdfbd1fd25c76c1bdfddf8c4/pycairo-1.23.0.tar.gz",
+                    "sha256": "9b61ac818723adc04367301317eb2e814a83522f07bbd1f409af0dada463c44c"
+                },
+                {
+                    "type": "file",
+                    "url": "https://files.pythonhosted.org/packages/92/56/27148014c2f85ce70332f18612f921f682395c7d4e91ec103783be4fce00/pydbus-0.6.0-py2.py3-none-any.whl",
+                    "sha256": "66b80106352a718d80d6c681dc2a82588048e30b75aab933e4020eb0660bf85e"
                 }
             ]
         }
