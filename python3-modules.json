@@ -71,8 +71,8 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/a7/49/b49e0ae6fdc959235ecb89a3a5be77dd050493dc30845f89482fb83e38b4/yt_dlp-2023.1.6-py2.py3-none-any.whl",
-                    "sha256": "bcac3231e2022cad128a83f69948c845b364b2a85fde53415378f7c199808849"
+                    "url": "https://files.pythonhosted.org/packages/0d/f9/6816d1f3f7c0f5a807f7ddc7480d2fa0d6b6e066002653d3a676501512f2/yt_dlp-2023.2.17-py2.py3-none-any.whl",
+                    "sha256": "3b2df037c80922f0f83f63ee2f9253496b4a8668c0fe8d2a836ba9040f853b07"
                 }
             ]
         },
