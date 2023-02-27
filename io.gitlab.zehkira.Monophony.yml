@@ -12,7 +12,6 @@ finish-args:
   - --filesystem=xdg-music/monophony:create
   - --device=dri
   - --own-name=org.mpris.MediaPlayer2.monophony
-  - --talk-name=org.gnome.SessionManager
 modules:
   - python3-modules.json
   - name: monophony
@@ -23,7 +22,7 @@ modules:
     sources:
       - type: git
         url: https://gitlab.com/zehkira/monophony.git
-        tag: v1.2.0
-        commit: b4d5e23be97785131b5413ad3f1d5d1e462e0470
+        tag: v1.3.0
+        commit: 86fbe9cb59fecbb6749c1e3f49c4ea194dd3789c
     cleanup-commands:
       - pip3 uninstall -y nuitka ordered-set
