@@ -12,7 +12,6 @@ finish-args:
   - --filesystem=xdg-music/monophony:create
   - --device=dri
   - --own-name=org.mpris.MediaPlayer2.monophony
-  - --talk-name=org.gnome.SessionManager
 modules:
   - python3-modules.json
   - name: monophony
