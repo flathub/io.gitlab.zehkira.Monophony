@@ -22,7 +22,7 @@ modules:
     sources:
       - type: git
         url: https://gitlab.com/zehkira/monophony.git
-        tag: v1.4.1
-        commit: 6b98f0701ef1ceb0cf9e442da67fc86eccbbafa7
+        tag: v1.5.0
+        commit: 18225f55ab73b25446aebb35c3e6b2799b8e42c6
     cleanup-commands:
       - pip3 uninstall -y nuitka ordered-set
