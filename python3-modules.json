@@ -17,8 +17,8 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/96/d7/1675d9089a1f4677df5eb29c3f8b064aa1e70c1251a0a8a127803158942d/charset-normalizer-3.0.1.tar.gz",
-                    "sha256": "ebea339af930f8ca5d7a699b921106c6e29c617fe9606fa7baa043c1cdae326f"
+                    "url": "https://files.pythonhosted.org/packages/ff/d7/8d757f8bd45be079d76309248845a04f09619a7b17d6dfc8c9ff6433cac2/charset-normalizer-3.1.0.tar.gz",
+                    "sha256": "34e0a2f9c370eb95597aae63bf85eb5e96826d81e3dcf88b8886012906f509b5"
                 },
                 {
                     "type": "file",
@@ -32,8 +32,8 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/fe/ca/466766e20b767ddb9b951202542310cba37ea5f2d792dae7589f1741af58/urllib3-1.26.14-py2.py3-none-any.whl",
-                    "sha256": "75edcdc2f7d85b137124a6c3c9fc3933cdeaa12ecb9a6a959f22797a0feca7e1"
+                    "url": "https://files.pythonhosted.org/packages/7b/f5/890a0baca17a61c1f92f72b81d3c31523c99bec609e60c292ea55b387ae8/urllib3-1.26.15-py2.py3-none-any.whl",
+                    "sha256": "aa751d169e23c7479ce47a0cb0da579e3ede798f994f5816a74e4f4500dcea42"
                 }
             ]
         },
@@ -66,13 +66,13 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/85/dc/549a807a53c13fd4a8dac286f117a7a71260defea9ec0c05d6027f2ae273/websockets-10.4.tar.gz",
-                    "sha256": "eef610b23933c54d5d921c92578ae5f89813438fded840c2e9809d378dc765d3"
+                    "url": "https://files.pythonhosted.org/packages/06/e7/de79d7cdde692dedb0944c42a03c358118f13cdff79d016a0504dbca35e4/websockets-11.0.tar.gz",
+                    "sha256": "19d638549c470f5fd3b67b52b2a08f2edba5a04e05323a706937e35f5f19d056"
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/0d/f9/6816d1f3f7c0f5a807f7ddc7480d2fa0d6b6e066002653d3a676501512f2/yt_dlp-2023.2.17-py2.py3-none-any.whl",
-                    "sha256": "3b2df037c80922f0f83f63ee2f9253496b4a8668c0fe8d2a836ba9040f853b07"
+                    "url": "https://files.pythonhosted.org/packages/a7/df/498c57f641e9993376cf52489047158e6d660e8bab06b72c470ad5cce2bd/yt_dlp-2023.3.4-py2.py3-none-any.whl",
+                    "sha256": "40ca421407ce07c8fd700854fd978d58526ec6fff3468caa34ff1c7333b8dc34"
                 }
             ]
         },
@@ -85,8 +85,18 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/19/b7/2ff49170a3ef4c04c6973e704b4f8c54c88508ba8f31a2a580472b3e46f0/Nuitka-1.4.7.tar.gz",
-                    "sha256": "ea7ef24c088afe15fd1daa96c455bb4d4b34183c310ea33f7916a0e616169467"
+                    "url": "https://files.pythonhosted.org/packages/6c/16/a9f27262677635c1e79a5ff254addf2b9469b5e72f6c14cc9dcf9ef920bc/Nuitka-1.5.4.tar.gz",
+                    "sha256": "2c6c619f3b89058589caee1865ea39a76ec5d4120516bb0acb826ab3314fdf43"
+                },
+                {
+                    "type": "file",
+                    "url": "https://files.pythonhosted.org/packages/33/55/af02708f230eb77084a299d7b08175cff006dea4f2721074b92cdb0296c0/ordered_set-4.1.0-py3-none-any.whl",
+                    "sha256": "046e1132c71fcf3330438a539928932caf51ddbc582496833e23de611de14562"
+                },
+                {
+                    "type": "file",
+                    "url": "https://files.pythonhosted.org/packages/02/f8/9ee010452d7be18c699ddc598237b52215966220401289c66b7897c7ecfb/zstandard-0.20.0.tar.gz",
+                    "sha256": "613daadd72c71b1488742cafb2c3b381c39d0c9bb8c6cc157aa2d5ea45cc2efc"
                 }
             ]
         },
@@ -104,8 +114,8 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/96/d7/1675d9089a1f4677df5eb29c3f8b064aa1e70c1251a0a8a127803158942d/charset-normalizer-3.0.1.tar.gz",
-                    "sha256": "ebea339af930f8ca5d7a699b921106c6e29c617fe9606fa7baa043c1cdae326f"
+                    "url": "https://files.pythonhosted.org/packages/ff/d7/8d757f8bd45be079d76309248845a04f09619a7b17d6dfc8c9ff6433cac2/charset-normalizer-3.1.0.tar.gz",
+                    "sha256": "34e0a2f9c370eb95597aae63bf85eb5e96826d81e3dcf88b8886012906f509b5"
                 },
                 {
                     "type": "file",
@@ -119,13 +129,13 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/fe/ca/466766e20b767ddb9b951202542310cba37ea5f2d792dae7589f1741af58/urllib3-1.26.14-py2.py3-none-any.whl",
-                    "sha256": "75edcdc2f7d85b137124a6c3c9fc3933cdeaa12ecb9a6a959f22797a0feca7e1"
+                    "url": "https://files.pythonhosted.org/packages/7b/f5/890a0baca17a61c1f92f72b81d3c31523c99bec609e60c292ea55b387ae8/urllib3-1.26.15-py2.py3-none-any.whl",
+                    "sha256": "aa751d169e23c7479ce47a0cb0da579e3ede798f994f5816a74e4f4500dcea42"
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/14/a9/5ba638ca601c74f169e0e0b055526566f2fa6b6402233a29aba607dca58e/ytmusicapi-0.25.0-py3-none-any.whl",
-                    "sha256": "be355bb3409c0e6c25a95ffd92213bd216561cdd8a0493a36a82d1726ff6efb9"
+                    "url": "https://files.pythonhosted.org/packages/d6/bd/1e6418ddae12b320292fe1a044e25f9ff8b3b144fef0055919674cbfda46/ytmusicapi-0.25.2-py3-none-any.whl",
+                    "sha256": "3d47a8803dceeb0289c7cf29a0317c5d6051d0b7c28fda067f6abb001746f7ac"
                 }
             ]
         },
@@ -152,8 +162,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/fe/40/9afaeb8d3b453fb8596fcb6c7bc2b64e434868c91eda19955742778eff74/PyGObject-3.42.2.tar.gz",
-                    "sha256": "21524cef33100c8fd59dc135948b703d79d303e368ce71fa60521cc971cd8aa7"
+                    "url": "https://files.pythonhosted.org/packages/44/80/96d6317a15a13a4f80ffa61118dc144a70756135fbc6ace30f9b033f51f7/PyGObject-3.44.1.tar.gz",
+                    "sha256": "665fbe980c91e8b31ad78ed3f66879946948200864002d193f67eccc1d7d5d83"
                 },
                 {
                     "type": "file",
