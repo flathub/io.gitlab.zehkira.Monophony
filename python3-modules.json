@@ -4,40 +4,6 @@
     "build-commands": [],
     "modules": [
         {
-            "name": "python3-requests",
-            "buildsystem": "simple",
-            "build-commands": [
-                "pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"requests\" --no-build-isolation"
-            ],
-            "sources": [
-                {
-                    "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/71/4c/3db2b8021bd6f2f0ceb0e088d6b2d49147671f25832fb17970e9b583d742/certifi-2022.12.7-py3-none-any.whl",
-                    "sha256": "4ad3232f5e926d6718ec31cfc1fcadfde020920e278684144551c91769c7bc18"
-                },
-                {
-                    "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/ff/d7/8d757f8bd45be079d76309248845a04f09619a7b17d6dfc8c9ff6433cac2/charset-normalizer-3.1.0.tar.gz",
-                    "sha256": "34e0a2f9c370eb95597aae63bf85eb5e96826d81e3dcf88b8886012906f509b5"
-                },
-                {
-                    "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/fc/34/3030de6f1370931b9dbb4dad48f6ab1015ab1d32447850b9fc94e60097be/idna-3.4-py3-none-any.whl",
-                    "sha256": "90b77e79eaa3eba6de819a0c442c0b4ceefc341a7a2ab77d7562bf49f425c5c2"
-                },
-                {
-                    "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/d2/f4/274d1dbe96b41cf4e0efb70cbced278ffd61b5c7bb70338b62af94ccb25b/requests-2.28.2-py3-none-any.whl",
-                    "sha256": "64299f4909223da747622c030b781c0d7811e359c37124b4bd368fb8c6518baa"
-                },
-                {
-                    "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/7b/f5/890a0baca17a61c1f92f72b81d3c31523c99bec609e60c292ea55b387ae8/urllib3-1.26.15-py2.py3-none-any.whl",
-                    "sha256": "aa751d169e23c7479ce47a0cb0da579e3ede798f994f5816a74e4f4500dcea42"
-                }
-            ]
-        },
-        {
             "name": "python3-yt-dlp",
             "buildsystem": "simple",
             "build-commands": [
@@ -51,8 +17,8 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/71/4c/3db2b8021bd6f2f0ceb0e088d6b2d49147671f25832fb17970e9b583d742/certifi-2022.12.7-py3-none-any.whl",
-                    "sha256": "4ad3232f5e926d6718ec31cfc1fcadfde020920e278684144551c91769c7bc18"
+                    "url": "https://files.pythonhosted.org/packages/9d/19/59961b522e6757f0c9097e4493fa906031b95b3ebe9360b2c3083561a6b4/certifi-2023.5.7-py3-none-any.whl",
+                    "sha256": "c6c2e98f5c7869efca1f8916fed228dd91539f9f1b444c314c06eef02980c716"
                 },
                 {
                     "type": "file",
@@ -61,13 +27,13 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/3d/07/cfd8f52b9068877801317d26dc7225e19421bc659e1395d2cd6933b1a351/pycryptodomex-3.17.tar.gz",
-                    "sha256": "0af93aad8d62e810247beedef0261c148790c52f3cd33643791cc6396dd217c1"
+                    "url": "https://files.pythonhosted.org/packages/40/92/efd675dba957315d705f792b28d900bddc36f39252f6713961b4221ee9af/pycryptodomex-3.18.0.tar.gz",
+                    "sha256": "3e3ecb5fe979e7c1bb0027e518340acf7ee60415d79295e5251d13c68dde576e"
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/06/e7/de79d7cdde692dedb0944c42a03c358118f13cdff79d016a0504dbca35e4/websockets-11.0.tar.gz",
-                    "sha256": "19d638549c470f5fd3b67b52b2a08f2edba5a04e05323a706937e35f5f19d056"
+                    "url": "https://files.pythonhosted.org/packages/d8/3b/2ed38e52eed4cf277f9df5f0463a99199a04d9e29c9e227cfafa57bd3993/websockets-11.0.3.tar.gz",
+                    "sha256": "88fc51d9a26b10fc331be344f1781224a375b78488fc343620184e95a4b27016"
                 },
                 {
                     "type": "file",
@@ -85,8 +51,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/6c/16/a9f27262677635c1e79a5ff254addf2b9469b5e72f6c14cc9dcf9ef920bc/Nuitka-1.5.4.tar.gz",
-                    "sha256": "2c6c619f3b89058589caee1865ea39a76ec5d4120516bb0acb826ab3314fdf43"
+                    "url": "https://files.pythonhosted.org/packages/83/7f/f900020cc97d7ca16442cff602922341e54dc9f766c7cbf4bbaa852f03b0/Nuitka-1.6.3.tar.gz",
+                    "sha256": "dee982e6fd48e1a9ef4066f4e1dc9d8b2342525d83a78ab93d58baca2a1f9285"
                 },
                 {
                     "type": "file",
@@ -95,8 +61,8 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/02/f8/9ee010452d7be18c699ddc598237b52215966220401289c66b7897c7ecfb/zstandard-0.20.0.tar.gz",
-                    "sha256": "613daadd72c71b1488742cafb2c3b381c39d0c9bb8c6cc157aa2d5ea45cc2efc"
+                    "url": "https://files.pythonhosted.org/packages/4d/70/1f883646641d7ad3944181549949d146fa19e286e892bc013f7ce1579e8f/zstandard-0.21.0.tar.gz",
+                    "sha256": "f08e3a10d01a247877e4cb61a82a319ea746c356a3786558bed2481e6c405546"
                 }
             ]
         },
@@ -109,8 +75,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/71/4c/3db2b8021bd6f2f0ceb0e088d6b2d49147671f25832fb17970e9b583d742/certifi-2022.12.7-py3-none-any.whl",
-                    "sha256": "4ad3232f5e926d6718ec31cfc1fcadfde020920e278684144551c91769c7bc18"
+                    "url": "https://files.pythonhosted.org/packages/9d/19/59961b522e6757f0c9097e4493fa906031b95b3ebe9360b2c3083561a6b4/certifi-2023.5.7-py3-none-any.whl",
+                    "sha256": "c6c2e98f5c7869efca1f8916fed228dd91539f9f1b444c314c06eef02980c716"
                 },
                 {
                     "type": "file",
@@ -124,18 +90,18 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/d2/f4/274d1dbe96b41cf4e0efb70cbced278ffd61b5c7bb70338b62af94ccb25b/requests-2.28.2-py3-none-any.whl",
-                    "sha256": "64299f4909223da747622c030b781c0d7811e359c37124b4bd368fb8c6518baa"
+                    "url": "https://files.pythonhosted.org/packages/70/8e/0e2d847013cb52cd35b38c009bb167a1a26b2ce6cd6965bf26b47bc0bf44/requests-2.31.0-py3-none-any.whl",
+                    "sha256": "58cd2187c01e70e6e26505bca751777aa9f2ee0b7f4300988b709f44e013003f"
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/7b/f5/890a0baca17a61c1f92f72b81d3c31523c99bec609e60c292ea55b387ae8/urllib3-1.26.15-py2.py3-none-any.whl",
-                    "sha256": "aa751d169e23c7479ce47a0cb0da579e3ede798f994f5816a74e4f4500dcea42"
+                    "url": "https://files.pythonhosted.org/packages/8a/03/ad9306a50d05c166e3456fe810f33cee2b8b2a7a6818ec5d4908c4ec6b36/urllib3-2.0.3-py3-none-any.whl",
+                    "sha256": "48e7fafa40319d358848e1bc6809b208340fafe2096f1725d05d67443d0483d1"
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/d6/bd/1e6418ddae12b320292fe1a044e25f9ff8b3b144fef0055919674cbfda46/ytmusicapi-0.25.2-py3-none-any.whl",
-                    "sha256": "3d47a8803dceeb0289c7cf29a0317c5d6051d0b7c28fda067f6abb001746f7ac"
+                    "url": "https://files.pythonhosted.org/packages/7c/b9/1c22b64ad3c4390ddb5cd95f9c875405a3b591eae35bfd3f9d56a354617e/ytmusicapi-1.0.2-py3-none-any.whl",
+                    "sha256": "8e3f364dbb0d4e9bbbbcac65e65c2449e7e236478ecc00e6b5bc25455e488eee"
                 }
             ]
         },
