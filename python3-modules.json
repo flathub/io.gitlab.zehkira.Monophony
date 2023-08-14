@@ -17,8 +17,8 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/9d/19/59961b522e6757f0c9097e4493fa906031b95b3ebe9360b2c3083561a6b4/certifi-2023.5.7-py3-none-any.whl",
-                    "sha256": "c6c2e98f5c7869efca1f8916fed228dd91539f9f1b444c314c06eef02980c716"
+                    "url": "https://files.pythonhosted.org/packages/4c/dd/2234eab22353ffc7d94e8d13177aaa050113286e93e7b40eae01fbf7c3d9/certifi-2023.7.22-py3-none-any.whl",
+                    "sha256": "92d6037539857d8206b8f6ae472e8b77db8058fec5937a1ef3f54304089edbb9"
                 },
                 {
                     "type": "file",
@@ -37,8 +37,8 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/a7/df/498c57f641e9993376cf52489047158e6d660e8bab06b72c470ad5cce2bd/yt_dlp-2023.3.4-py2.py3-none-any.whl",
-                    "sha256": "40ca421407ce07c8fd700854fd978d58526ec6fff3468caa34ff1c7333b8dc34"
+                    "url": "https://files.pythonhosted.org/packages/5c/da/ef08140cea3392288a8f6cd60f6f12510a4c5776eead53e90151f139af19/yt_dlp-2023.7.6-py2.py3-none-any.whl",
+                    "sha256": "b33b3f68751f33dd8290f1f61f7a011679b3b512aa223df3bff496688bc0bd19"
                 }
             ]
         },
@@ -51,8 +51,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/83/7f/f900020cc97d7ca16442cff602922341e54dc9f766c7cbf4bbaa852f03b0/Nuitka-1.6.3.tar.gz",
-                    "sha256": "dee982e6fd48e1a9ef4066f4e1dc9d8b2342525d83a78ab93d58baca2a1f9285"
+                    "url": "https://files.pythonhosted.org/packages/47/ea/77f9f2fffe0320c34947f1a3ede0b984da61f7b369baf0abf1a15f1a7ac6/Nuitka-1.7.9.tar.gz",
+                    "sha256": "f910c95bb3406930b8ccbc3eba6a7874a0d4fdfe05adccbaa130ef82efeafbb1"
                 },
                 {
                     "type": "file",
@@ -75,13 +75,13 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/9d/19/59961b522e6757f0c9097e4493fa906031b95b3ebe9360b2c3083561a6b4/certifi-2023.5.7-py3-none-any.whl",
-                    "sha256": "c6c2e98f5c7869efca1f8916fed228dd91539f9f1b444c314c06eef02980c716"
+                    "url": "https://files.pythonhosted.org/packages/4c/dd/2234eab22353ffc7d94e8d13177aaa050113286e93e7b40eae01fbf7c3d9/certifi-2023.7.22-py3-none-any.whl",
+                    "sha256": "92d6037539857d8206b8f6ae472e8b77db8058fec5937a1ef3f54304089edbb9"
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/ff/d7/8d757f8bd45be079d76309248845a04f09619a7b17d6dfc8c9ff6433cac2/charset-normalizer-3.1.0.tar.gz",
-                    "sha256": "34e0a2f9c370eb95597aae63bf85eb5e96826d81e3dcf88b8886012906f509b5"
+                    "url": "https://files.pythonhosted.org/packages/2a/53/cf0a48de1bdcf6ff6e1c9a023f5f523dfe303e4024f216feac64b6eb7f67/charset-normalizer-3.2.0.tar.gz",
+                    "sha256": "3bb3d25a8e6c0aedd251753a79ae98a093c7e7b471faa3aa9a93a81431987ace"
                 },
                 {
                     "type": "file",
@@ -95,13 +95,13 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/8a/03/ad9306a50d05c166e3456fe810f33cee2b8b2a7a6818ec5d4908c4ec6b36/urllib3-2.0.3-py3-none-any.whl",
-                    "sha256": "48e7fafa40319d358848e1bc6809b208340fafe2096f1725d05d67443d0483d1"
+                    "url": "https://files.pythonhosted.org/packages/9b/81/62fd61001fa4b9d0df6e31d47ff49cfa9de4af03adecf339c7bc30656b37/urllib3-2.0.4-py3-none-any.whl",
+                    "sha256": "de7df1803967d2c2a98e4b11bb7d6bd9210474c46e8a0401514e3a42a75ebde4"
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/7c/b9/1c22b64ad3c4390ddb5cd95f9c875405a3b591eae35bfd3f9d56a354617e/ytmusicapi-1.0.2-py3-none-any.whl",
-                    "sha256": "8e3f364dbb0d4e9bbbbcac65e65c2449e7e236478ecc00e6b5bc25455e488eee"
+                    "url": "https://files.pythonhosted.org/packages/28/e2/35adcefca140b4232387b5d7d119abe69c6d1c86d48c949a720c7ccb8bc7/ytmusicapi-1.1.1-py3-none-any.whl",
+                    "sha256": "0c154a052c8f8e2310a51b1f391aa2ed1a2f6693a7ec343cc47b822de5e95783"
                 }
             ]
         },
@@ -148,8 +148,8 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/69/ca/9e9fa2e8be0876a9bbf046a1be7ee33e61d4fdfbd1fd25c76c1bdfddf8c4/pycairo-1.23.0.tar.gz",
-                    "sha256": "9b61ac818723adc04367301317eb2e814a83522f07bbd1f409af0dada463c44c"
+                    "url": "https://files.pythonhosted.org/packages/a2/dd/bc2c9ee9485308a29c18b1241329e677917af25c60b127857f0fb23d0c6e/pycairo-1.24.0.tar.gz",
+                    "sha256": "1444d52f1bb4cc79a4a0c0fe2ccec4bd78ff885ab01ebe1c0f637d8392bcafb6"
                 },
                 {
                     "type": "file",
