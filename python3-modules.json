@@ -51,8 +51,8 @@
             "sources": [
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/47/ea/77f9f2fffe0320c34947f1a3ede0b984da61f7b369baf0abf1a15f1a7ac6/Nuitka-1.7.9.tar.gz",
-                    "sha256": "f910c95bb3406930b8ccbc3eba6a7874a0d4fdfe05adccbaa130ef82efeafbb1"
+                    "url": "https://files.pythonhosted.org/packages/f7/7a/0ee84fdd60f15d17cf3ce7fb69df8301b71c9418eef7e0702c3a8a072b6f/Nuitka-1.7.10.tar.gz",
+                    "sha256": "61c84b4eb7105d20836940ab6134460b690da8aab7a74bdc84ddd05de1e04b16"
                 },
                 {
                     "type": "file",
@@ -100,8 +100,8 @@
                 },
                 {
                     "type": "file",
-                    "url": "https://files.pythonhosted.org/packages/28/e2/35adcefca140b4232387b5d7d119abe69c6d1c86d48c949a720c7ccb8bc7/ytmusicapi-1.1.1-py3-none-any.whl",
-                    "sha256": "0c154a052c8f8e2310a51b1f391aa2ed1a2f6693a7ec343cc47b822de5e95783"
+                    "url": "https://files.pythonhosted.org/packages/28/87/03eed1e294adc6937aa36244dc4836a3829c7b67aa2e9b7fa400a382cf54/ytmusicapi-1.2.0-py3-none-any.whl",
+                    "sha256": "fcb49934021329b49897765aaa76497df1669861986a5fca53193c97fe213b20"
                 }
             ]
         },
