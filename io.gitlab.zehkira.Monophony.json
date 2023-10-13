@@ -1,7 +1,7 @@
 {
     "app-id": "io.gitlab.zehkira.Monophony",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "45",
+    "runtime-version": "44",
     "sdk": "org.gnome.Sdk",
     "command": "monophony",
     "finish-args": [
@@ -26,8 +26,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.com/zehkira/monophony.git",
-                    "tag": "v2.2.2",
-                    "commit": "29b8c1fe58884336c7c8fa31f2d4bbb8d37c58a4"
+                    "tag": "v2.2.3",
+                    "commit": "142311fb0c84d2ceb02499b52274ad9a5fe79ed1"
                 }
             ],
             "post-install": [
