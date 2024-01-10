@@ -37,8 +37,8 @@
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/14/c9/09d5df04c9f29ae1b49d0e34c9934646b53bb2131a55e8ed2a0d447c7c53/pycryptodomex-3.19.0.tar.gz",
-					"sha256": "af83a554b3f077564229865c45af0791be008ac6469ef0098152139e6bd4b5b6"
+					"url": "https://files.pythonhosted.org/packages/3f/13/84f2aea851d75e12e7f32ccc11a00f1defc3d285b4ed710e5d049f31c5a6/pycryptodomex-3.19.1.tar.gz",
+					"sha256": "0b7154aff2272962355f8941fd514104a88cb29db2d8f43a29af900d6398eb1c"
 				},
 				{
 					"type": "file",
@@ -57,8 +57,8 @@
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/31/5a/d9b0a47a3aacf650b8ffc750bb5d296c24b2cc674f4c2a975895f49d4f0a/yt_dlp-2023.11.16-py2.py3-none-any.whl",
-					"sha256": "0322ba85aa4afdb75f8641ed550e5958964daff034aeb477abb15031fd9a51ed"
+					"url": "https://files.pythonhosted.org/packages/d6/69/da2592056798716027215f561f2e9eeb3384d48b6b6a5a918916dbad1c98/yt_dlp-2023.12.30-py2.py3-none-any.whl",
+					"sha256": "c00d9a71d64472ad441bcaa1ec0c3797d6e60c9f934f270096a96fe51657e7b3"
 				}
 			]
 		},
@@ -71,8 +71,8 @@
 			"sources": [
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/a4/65/cc94e476251bef6f4edfd19a0cb85af00386757fe67b9783fb424eb6f0b0/Nuitka-1.9.5.tar.gz",
-					"sha256": "ceb0a90f33089b643809d6e3a58fc553f531972282c205476f1cd480db6b2073"
+					"url": "https://files.pythonhosted.org/packages/78/c0/c66026007e0d5dd0aea6bb2b144da603b33344d6be144c4f255190fa1f13/Nuitka-1.9.7.tar.gz",
+					"sha256": "4db728e224043308112b40a8d0a2168e9ccd956e713238617b3e47779a740512"
 				},
 				{
 					"type": "file",
@@ -120,8 +120,8 @@
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/69/40/fdafe1fc256344385f9df1f8e65de48080ad36aeb4300127a276fd3da28a/ytmusicapi-1.3.2-py3-none-any.whl",
-					"sha256": "c6418ac5e708d21547556a84534aef5034dfa3ba57bb07ef70a8211cf593cab0"
+					"url": "https://files.pythonhosted.org/packages/e1/86/3539da5d22143b5ee17c6a5d33bc83d077bf6087e7fa6e95eadc2652f802/ytmusicapi-1.4.2-py3-none-any.whl",
+					"sha256": "79e824c1a8a796e3d3dc35fd7fc295a1cb87700a686394d4d7e9b0ba22e5ddb3"
 				}
 			]
 		},
