@@ -11,7 +11,7 @@
         "--share=ipc",
         "--share=network",
         "--device=dri",
-        "--own-name=org.mpris.MediaPlayer2.monophony"
+        "--own-name=org.mpris.MediaPlayer2.Monophony"
     ],
     "modules": [
         "python3-modules.json",
@@ -26,8 +26,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.com/zehkira/monophony.git",
-                    "tag": "v2.5.2",
-                    "commit": "7906af23bf78d4a6c45909c518936c91ee744278"
+                    "tag": "v2.6.0",
+                    "commit": "ca4792aa2e97b93ec0e81b106bdfc13b74ca8590"
                 }
             ],
             "post-install": [
