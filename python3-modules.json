@@ -17,8 +17,8 @@
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/64/62/428ef076be88fa93716b576e4a01f919d25968913e817077a386fcbe4f42/certifi-2023.11.17-py3-none-any.whl",
-					"sha256": "e036ab49d5b79556f99cfc2d9320b34cfbe5be05c5871b51de9329f0603b0474"
+					"url": "https://files.pythonhosted.org/packages/ba/06/a07f096c664aeb9f01624f858c3add0a4e913d6c96257acb4fce61e7de14/certifi-2024.2.2-py3-none-any.whl",
+					"sha256": "dc383c07b76109f368f6106eee2b593b04a011ea4d55f652c6ca24a754d1cdd1"
 				},
 				{
 					"type": "file",
@@ -37,8 +37,8 @@
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/3f/13/84f2aea851d75e12e7f32ccc11a00f1defc3d285b4ed710e5d049f31c5a6/pycryptodomex-3.19.1.tar.gz",
-					"sha256": "0b7154aff2272962355f8941fd514104a88cb29db2d8f43a29af900d6398eb1c"
+					"url": "https://files.pythonhosted.org/packages/31/a4/b03a16637574312c1b54c55aedeed8a4cb7d101d44058d46a0e5706c63e1/pycryptodomex-3.20.0.tar.gz",
+					"sha256": "7a710b79baddd65b806402e14766c721aee8fb83381769c27920f26476276c1e"
 				},
 				{
 					"type": "file",
@@ -47,8 +47,8 @@
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/96/94/c31f58c7a7f470d5665935262ebd7455c7e4c7782eb525658d3dbf4b9403/urllib3-2.1.0-py3-none-any.whl",
-					"sha256": "55901e917a5896a349ff771be919f8bd99aff50b79fe58fec595eb37bbc56bb3"
+					"url": "https://files.pythonhosted.org/packages/a2/73/a68704750a7679d0b6d3ad7aa8d4da8e14e151ae82e6fee774e6e0d05ec8/urllib3-2.2.1-py3-none-any.whl",
+					"sha256": "450b20ec296a467077128bff42b73080516e71b56ff59a60a02bef2232c4fa9d"
 				},
 				{
 					"type": "file",
@@ -57,8 +57,8 @@
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/d6/69/da2592056798716027215f561f2e9eeb3384d48b6b6a5a918916dbad1c98/yt_dlp-2023.12.30-py2.py3-none-any.whl",
-					"sha256": "c00d9a71d64472ad441bcaa1ec0c3797d6e60c9f934f270096a96fe51657e7b3"
+					"url": "https://files.pythonhosted.org/packages/06/f8/a42be2524a6f53f5aa78f37313473890a2155ea2e3d11247b8f35d32226a/yt_dlp-2024.3.10-py3-none-any.whl",
+					"sha256": "bbe66b9a3aa23b6378ccca3ea20f5aadf385fa21a993513a105d73c827a86ed4"
 				}
 			]
 		},
@@ -71,8 +71,8 @@
 			"sources": [
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/78/c0/c66026007e0d5dd0aea6bb2b144da603b33344d6be144c4f255190fa1f13/Nuitka-1.9.7.tar.gz",
-					"sha256": "4db728e224043308112b40a8d0a2168e9ccd956e713238617b3e47779a740512"
+					"url": "https://files.pythonhosted.org/packages/7d/eb/a4e26affe8d0d4e6992bd05054f800e15e3f1adc40af796df7b5ea2fa4bc/Nuitka-2.1.3.tar.gz",
+					"sha256": "e0a894637ab405750054109eb28af323a44426276977191bb75b58bf6a6083ce"
 				},
 				{
 					"type": "file",
@@ -95,8 +95,8 @@
 			"sources": [
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/64/62/428ef076be88fa93716b576e4a01f919d25968913e817077a386fcbe4f42/certifi-2023.11.17-py3-none-any.whl",
-					"sha256": "e036ab49d5b79556f99cfc2d9320b34cfbe5be05c5871b51de9329f0603b0474"
+					"url": "https://files.pythonhosted.org/packages/ba/06/a07f096c664aeb9f01624f858c3add0a4e913d6c96257acb4fce61e7de14/certifi-2024.2.2-py3-none-any.whl",
+					"sha256": "dc383c07b76109f368f6106eee2b593b04a011ea4d55f652c6ca24a754d1cdd1"
 				},
 				{
 					"type": "file",
@@ -115,13 +115,13 @@
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/96/94/c31f58c7a7f470d5665935262ebd7455c7e4c7782eb525658d3dbf4b9403/urllib3-2.1.0-py3-none-any.whl",
-					"sha256": "55901e917a5896a349ff771be919f8bd99aff50b79fe58fec595eb37bbc56bb3"
+					"url": "https://files.pythonhosted.org/packages/a2/73/a68704750a7679d0b6d3ad7aa8d4da8e14e151ae82e6fee774e6e0d05ec8/urllib3-2.2.1-py3-none-any.whl",
+					"sha256": "450b20ec296a467077128bff42b73080516e71b56ff59a60a02bef2232c4fa9d"
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/e1/86/3539da5d22143b5ee17c6a5d33bc83d077bf6087e7fa6e95eadc2652f802/ytmusicapi-1.4.2-py3-none-any.whl",
-					"sha256": "79e824c1a8a796e3d3dc35fd7fc295a1cb87700a686394d4d7e9b0ba22e5ddb3"
+					"url": "https://files.pythonhosted.org/packages/95/17/8230747a92a678562e031c3512b33e8eb2a9b9b09dd5a77f34035226ff58/ytmusicapi-1.6.0-py3-none-any.whl",
+					"sha256": "0484bd491a8292d447636f88eb15460ac1b71d57b1c5b2ef5d0db99294598cd8"
 				}
 			]
 		},
@@ -148,13 +148,8 @@
 			"sources": [
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/ac/4a/f24ddf1d20cc4b56affc7921e29928559a06c922eb60077448392792b914/PyGObject-3.46.0.tar.gz",
-					"sha256": "481437b05af0a66b7c366ea052710eb3aacbb979d22d30b797f7ec29347ab1e6"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/e4/63/7685ef40c65aba621ccd2524a24181bf11f0535ab1fdba47e40738eacff6/Unidecode-1.3.7-py3-none-any.whl",
-					"sha256": "663a537f506834ed836af26a81b210d90cbde044c47bfbdc0fbbc9f94c86a6e4"
+					"url": "https://files.pythonhosted.org/packages/84/b7/6ec57841fb67c98f52fc8e4a2d96df60059637cba077edc569a302a8ffc7/Unidecode-1.3.8-py3-none-any.whl",
+					"sha256": "d130a61ce6696f8148a3bd8fe779c99adeb4b870584eeb9526584e9aa091fd39"
 				},
 				{
 					"type": "file",
@@ -168,13 +163,18 @@
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/c7/7c/de4d40316ee563e4f15a0f05f28c8458833fbef80c4588b9dd51f39b78ee/pycairo-1.25.1.tar.gz",
-					"sha256": "7e2be4fbc3b4536f16db7a11982cbf713e75069a4d73d44fe5a49b68423f5c0c"
+					"url": "https://files.pythonhosted.org/packages/1c/41/91955188e97c7b85fbaac6bbf4e33de028899e0aa31bdce99b1afe2eeb17/pycairo-1.26.0.tar.gz",
+					"sha256": "2dddd0a874fbddb21e14acd9b955881ee1dc6e63b9c549a192d613a907f9cbeb"
 				},
 				{
 					"type": "file",
 					"url": "https://files.pythonhosted.org/packages/92/56/27148014c2f85ce70332f18612f921f682395c7d4e91ec103783be4fce00/pydbus-0.6.0-py2.py3-none-any.whl",
 					"sha256": "66b80106352a718d80d6c681dc2a82588048e30b75aab933e4020eb0660bf85e"
+				},
+				{
+					"type": "file",
+					"url": "https://files.pythonhosted.org/packages/a9/73/ff037ab99c40522ed53c759baa0e3969d03933d3650f02e50ee0cb639666/pygobject-3.48.1.tar.gz",
+					"sha256": "2c4cd7c805ee9e727904172423a7519338017fd7e122b62218ac211627436875"
 				}
 			]
 		}
