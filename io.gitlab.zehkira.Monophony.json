@@ -26,8 +26,8 @@
                 {
                     "type": "git",
                     "url": "https://gitlab.com/zehkira/monophony.git",
-                    "tag": "v2.8.2",
-                    "commit": "a222db12b150b4e2681c5b550b53f0b499a8a352"
+                    "tag": "v2.9.0",
+                    "commit": "d9cbccd2ed26b62161f8fa5a6c7f9b2b03dbd309"
                 }
             ],
             "post-install": [
