@@ -1,7 +1,7 @@
 {
     "app-id": "io.gitlab.zehkira.Monophony",
     "runtime": "org.gnome.Platform",
-    "runtime-version": "45",
+    "runtime-version": "46",
     "sdk": "org.gnome.Sdk",
     "command": "monophony",
     "finish-args": [
@@ -19,19 +19,16 @@
             "name": "monophony",
             "buildsystem": "simple",
             "build-commands": [
-                "cd source && make build",
+                "mv source/bin/yt-dlp ${FLATPAK_DEST}/bin/",
                 "cd source && make prefix=${FLATPAK_DEST} install"
             ],
             "sources": [
                 {
                     "type": "git",
                     "url": "https://gitlab.com/zehkira/monophony.git",
-                    "tag": "v2.9.0",
-                    "commit": "d9cbccd2ed26b62161f8fa5a6c7f9b2b03dbd309"
+                    "tag": "v2.10.0",
+                    "commit": "bb58b874476a63f9544c76dc425a5374c41a2111"
                 }
-            ],
-            "post-install": [
-                "pip3 uninstall -y nuitka ordered-set"
             ]
         }
     ]

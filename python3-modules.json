@@ -4,142 +4,6 @@
 	"build-commands": [],
 	"modules": [
 		{
-			"name": "python3-yt-dlp",
-			"buildsystem": "simple",
-			"build-commands": [
-				"pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"yt-dlp\" --no-build-isolation"
-			],
-			"sources": [
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/2f/c2/f9e977608bdf958650638c3f1e28f85a1b075f075ebbe77db8555463787b/Brotli-1.1.0.tar.gz",
-					"sha256": "81de08ac11bcb85841e440c13611c00b67d3bf82698314928d0b676362546724"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/ba/06/a07f096c664aeb9f01624f858c3add0a4e913d6c96257acb4fce61e7de14/certifi-2024.2.2-py3-none-any.whl",
-					"sha256": "dc383c07b76109f368f6106eee2b593b04a011ea4d55f652c6ca24a754d1cdd1"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/63/09/c1bc53dab74b1816a00d8d030de5bf98f724c52c1635e07681d312f20be8/charset-normalizer-3.3.2.tar.gz",
-					"sha256": "f30c3cb33b24454a82faecaf01b19c18562b1e89558fb6c56de4d9118a032fd5"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/c2/e7/a82b05cf63a603df6e68d59ae6a68bf5064484a0718ea5033660af4b54a9/idna-3.6-py3-none-any.whl",
-					"sha256": "c05567e9c24a6b9faaa835c4821bad0590fbb9d5779e7caa6e1cc4978e7eb24f"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/b0/7a/620f945b96be1f6ee357d211d5bf74ab1b7fe72a9f1525aafbfe3aee6875/mutagen-1.47.0-py3-none-any.whl",
-					"sha256": "edd96f50c5907a9539d8e5bba7245f62c9f520aef333d13392a79a4f70aca719"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/31/a4/b03a16637574312c1b54c55aedeed8a4cb7d101d44058d46a0e5706c63e1/pycryptodomex-3.20.0.tar.gz",
-					"sha256": "7a710b79baddd65b806402e14766c721aee8fb83381769c27920f26476276c1e"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/70/8e/0e2d847013cb52cd35b38c009bb167a1a26b2ce6cd6965bf26b47bc0bf44/requests-2.31.0-py3-none-any.whl",
-					"sha256": "58cd2187c01e70e6e26505bca751777aa9f2ee0b7f4300988b709f44e013003f"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/a2/73/a68704750a7679d0b6d3ad7aa8d4da8e14e151ae82e6fee774e6e0d05ec8/urllib3-2.2.1-py3-none-any.whl",
-					"sha256": "450b20ec296a467077128bff42b73080516e71b56ff59a60a02bef2232c4fa9d"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/2e/62/7a7874b7285413c954a4cca3c11fd851f11b2fe5b4ae2d9bee4f6d9bdb10/websockets-12.0.tar.gz",
-					"sha256": "81df9cbcbb6c260de1e007e58c011bfebe2dafc8435107b0537f393dd38c8b1b"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/06/f8/a42be2524a6f53f5aa78f37313473890a2155ea2e3d11247b8f35d32226a/yt_dlp-2024.3.10-py3-none-any.whl",
-					"sha256": "bbe66b9a3aa23b6378ccca3ea20f5aadf385fa21a993513a105d73c827a86ed4"
-				}
-			]
-		},
-		{
-			"name": "python3-nuitka",
-			"buildsystem": "simple",
-			"build-commands": [
-				"pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"nuitka\" --no-build-isolation"
-			],
-			"sources": [
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/7d/eb/a4e26affe8d0d4e6992bd05054f800e15e3f1adc40af796df7b5ea2fa4bc/Nuitka-2.1.3.tar.gz",
-					"sha256": "e0a894637ab405750054109eb28af323a44426276977191bb75b58bf6a6083ce"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/33/55/af02708f230eb77084a299d7b08175cff006dea4f2721074b92cdb0296c0/ordered_set-4.1.0-py3-none-any.whl",
-					"sha256": "046e1132c71fcf3330438a539928932caf51ddbc582496833e23de611de14562"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/5d/91/2162ab4239b3bd6743e8e407bc2442fca0d326e2d77b3f4a88d90ad5a1fa/zstandard-0.22.0.tar.gz",
-					"sha256": "8226a33c542bcb54cd6bd0a366067b610b41713b64c9abec1bc4533d69f51e70"
-				}
-			]
-		},
-		{
-			"name": "python3-ytmusicapi",
-			"buildsystem": "simple",
-			"build-commands": [
-				"pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"ytmusicapi\" --no-build-isolation"
-			],
-			"sources": [
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/ba/06/a07f096c664aeb9f01624f858c3add0a4e913d6c96257acb4fce61e7de14/certifi-2024.2.2-py3-none-any.whl",
-					"sha256": "dc383c07b76109f368f6106eee2b593b04a011ea4d55f652c6ca24a754d1cdd1"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/63/09/c1bc53dab74b1816a00d8d030de5bf98f724c52c1635e07681d312f20be8/charset-normalizer-3.3.2.tar.gz",
-					"sha256": "f30c3cb33b24454a82faecaf01b19c18562b1e89558fb6c56de4d9118a032fd5"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/c2/e7/a82b05cf63a603df6e68d59ae6a68bf5064484a0718ea5033660af4b54a9/idna-3.6-py3-none-any.whl",
-					"sha256": "c05567e9c24a6b9faaa835c4821bad0590fbb9d5779e7caa6e1cc4978e7eb24f"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/70/8e/0e2d847013cb52cd35b38c009bb167a1a26b2ce6cd6965bf26b47bc0bf44/requests-2.31.0-py3-none-any.whl",
-					"sha256": "58cd2187c01e70e6e26505bca751777aa9f2ee0b7f4300988b709f44e013003f"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/a2/73/a68704750a7679d0b6d3ad7aa8d4da8e14e151ae82e6fee774e6e0d05ec8/urllib3-2.2.1-py3-none-any.whl",
-					"sha256": "450b20ec296a467077128bff42b73080516e71b56ff59a60a02bef2232c4fa9d"
-				},
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/95/17/8230747a92a678562e031c3512b33e8eb2a9b9b09dd5a77f34035226ff58/ytmusicapi-1.6.0-py3-none-any.whl",
-					"sha256": "0484bd491a8292d447636f88eb15460ac1b71d57b1c5b2ef5d0db99294598cd8"
-				}
-			]
-		},
-		{
-			"name": "python3-ordered-set",
-			"buildsystem": "simple",
-			"build-commands": [
-				"pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"ordered-set\" --no-build-isolation"
-			],
-			"sources": [
-				{
-					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/33/55/af02708f230eb77084a299d7b08175cff006dea4f2721074b92cdb0296c0/ordered_set-4.1.0-py3-none-any.whl",
-					"sha256": "046e1132c71fcf3330438a539928932caf51ddbc582496833e23de611de14562"
-				}
-			]
-		},
-		{
 			"name": "python3-mpris_server",
 			"buildsystem": "simple",
 			"build-commands": [
@@ -173,8 +37,47 @@
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/a9/73/ff037ab99c40522ed53c759baa0e3969d03933d3650f02e50ee0cb639666/pygobject-3.48.1.tar.gz",
-					"sha256": "2c4cd7c805ee9e727904172423a7519338017fd7e122b62218ac211627436875"
+					"url": "https://files.pythonhosted.org/packages/f9/9e/6bab1ed3bd878f0912d9a0600c21f3d88bab0e8a8d4c3ce50f5cf336faaf/pygobject-3.48.2.tar.gz",
+					"sha256": "c3c0a7afbe5b2c1c64dc0530109b4dd571085153dbedfbccb8ec7c5ad233f977"
+				}
+			]
+		},
+		{
+			"name": "python3-ytmusicapi",
+			"buildsystem": "simple",
+			"build-commands": [
+				"pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"ytmusicapi==1.7.0\" --no-build-isolation"
+			],
+			"sources": [
+				{
+					"type": "file",
+					"url": "https://files.pythonhosted.org/packages/ba/06/a07f096c664aeb9f01624f858c3add0a4e913d6c96257acb4fce61e7de14/certifi-2024.2.2-py3-none-any.whl",
+					"sha256": "dc383c07b76109f368f6106eee2b593b04a011ea4d55f652c6ca24a754d1cdd1"
+				},
+				{
+					"type": "file",
+					"url": "https://files.pythonhosted.org/packages/63/09/c1bc53dab74b1816a00d8d030de5bf98f724c52c1635e07681d312f20be8/charset-normalizer-3.3.2.tar.gz",
+					"sha256": "f30c3cb33b24454a82faecaf01b19c18562b1e89558fb6c56de4d9118a032fd5"
+				},
+				{
+					"type": "file",
+					"url": "https://files.pythonhosted.org/packages/e5/3e/741d8c82801c347547f8a2a06aa57dbb1992be9e948df2ea0eda2c8b79e8/idna-3.7-py3-none-any.whl",
+					"sha256": "82fee1fc78add43492d3a1898bfa6d8a904cc97d8427f683ed8e798d07761aa0"
+				},
+				{
+					"type": "file",
+					"url": "https://files.pythonhosted.org/packages/70/8e/0e2d847013cb52cd35b38c009bb167a1a26b2ce6cd6965bf26b47bc0bf44/requests-2.31.0-py3-none-any.whl",
+					"sha256": "58cd2187c01e70e6e26505bca751777aa9f2ee0b7f4300988b709f44e013003f"
+				},
+				{
+					"type": "file",
+					"url": "https://files.pythonhosted.org/packages/a2/73/a68704750a7679d0b6d3ad7aa8d4da8e14e151ae82e6fee774e6e0d05ec8/urllib3-2.2.1-py3-none-any.whl",
+					"sha256": "450b20ec296a467077128bff42b73080516e71b56ff59a60a02bef2232c4fa9d"
+				},
+				{
+					"type": "file",
+					"url": "https://files.pythonhosted.org/packages/48/cd/526b32387ed807ed088364a7a1e36815ace01f2b1f15fe3a33ef5b5c8d8f/ytmusicapi-1.7.0-py3-none-any.whl",
+					"sha256": "fbbd1f64e22c6466943b0fe8390766232c115f9e2a73a33a3a84251b0feaf49b"
 				}
 			]
 		}
