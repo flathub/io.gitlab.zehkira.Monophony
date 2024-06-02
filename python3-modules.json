@@ -46,13 +46,13 @@
 			"name": "python3-ytmusicapi",
 			"buildsystem": "simple",
 			"build-commands": [
-				"pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"ytmusicapi==1.7.0\" --no-build-isolation"
+				"pip3 install --verbose --exists-action=i --no-index --find-links=\"file://${PWD}\" --prefix=${FLATPAK_DEST} \"ytmusicapi==1.7.3\" --no-build-isolation"
 			],
 			"sources": [
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/ba/06/a07f096c664aeb9f01624f858c3add0a4e913d6c96257acb4fce61e7de14/certifi-2024.2.2-py3-none-any.whl",
-					"sha256": "dc383c07b76109f368f6106eee2b593b04a011ea4d55f652c6ca24a754d1cdd1"
+					"url": "https://files.pythonhosted.org/packages/5b/11/1e78951465b4a225519b8c3ad29769c49e0d8d157a070f681d5b6d64737f/certifi-2024.6.2-py3-none-any.whl",
+					"sha256": "ddc6c8ce995e6987e7faf5e3f1b02b302836a0e5d98ece18392cb1a36c72ad56"
 				},
 				{
 					"type": "file",
@@ -66,8 +66,8 @@
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/70/8e/0e2d847013cb52cd35b38c009bb167a1a26b2ce6cd6965bf26b47bc0bf44/requests-2.31.0-py3-none-any.whl",
-					"sha256": "58cd2187c01e70e6e26505bca751777aa9f2ee0b7f4300988b709f44e013003f"
+					"url": "https://files.pythonhosted.org/packages/f9/9b/335f9764261e915ed497fcdeb11df5dfd6f7bf257d4a6a2a686d80da4d54/requests-2.32.3-py3-none-any.whl",
+					"sha256": "70761cfe03c773ceb22aa2f671b4757976145175cdfca038c02654d061d6dcc6"
 				},
 				{
 					"type": "file",
@@ -76,8 +76,8 @@
 				},
 				{
 					"type": "file",
-					"url": "https://files.pythonhosted.org/packages/48/cd/526b32387ed807ed088364a7a1e36815ace01f2b1f15fe3a33ef5b5c8d8f/ytmusicapi-1.7.0-py3-none-any.whl",
-					"sha256": "fbbd1f64e22c6466943b0fe8390766232c115f9e2a73a33a3a84251b0feaf49b"
+					"url": "https://files.pythonhosted.org/packages/44/d6/dc4d4f45594fd631ee2630a5d2063e50dcde272239d973f8b67d904f315b/ytmusicapi-1.7.3-py3-none-any.whl",
+					"sha256": "248c258df62e4afb360c4bca16762e4653fa08f15c8f295e673e01bfd062e159"
 				}
 			]
 		}
