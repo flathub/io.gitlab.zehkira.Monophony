@@ -15,19 +15,31 @@
     ],
     "modules": [
         "python3-modules.json",
+		{
+			"name": "yt-dlp",
+			"buildsystem": "simple",
+			"build-commands": [
+				"chmod +x yt-dlp",
+				"mv yt-dlp ${FLATPAK_DEST}/bin/"
+			],
+			"sources": [{
+				"type": "file",
+				"url": "https://github.com/yt-dlp/yt-dlp/releases/download/2024.07.02/yt-dlp",
+				"sha256": "5103eabc23aabe77d52d6a13313db550d8addca849257cdfe9a91861fb72e3c9"
+			}]
+		},
         {
             "name": "monophony",
             "buildsystem": "simple",
             "build-commands": [
-                "mv source/bin/yt-dlp ${FLATPAK_DEST}/bin/",
                 "cd source && make prefix=${FLATPAK_DEST} install"
             ],
             "sources": [
                 {
                     "type": "git",
                     "url": "https://gitlab.com/zehkira/monophony.git",
-                    "tag": "v2.11.0",
-                    "commit": "e1e0414ecebf959cc90d0bcfe61c2cb9d865231b"
+                    "tag": "v2.12.0-pre.1",
+                    "commit": "a525438839a3614cece8d20807fc2506cdd198b7"
                 }
             ]
         }
