@@ -38,8 +38,8 @@
 				{
 					"type": "git",
 					"url": "https://gitlab.com/zehkira/monophony.git",
-					"tag": "v2.12.0",
-					"commit": "31ee7464e6a28b2fb539b626064b98ddfd70fbb8"
+					"tag": "v2.13.0",
+					"commit": "0caef76bb5d075c938631242b4d0cd6ef19105bd"
 				}
 			]
 		}
