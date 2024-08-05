@@ -24,8 +24,8 @@
 			],
 			"sources": [{
 				"type": "file",
-				"url": "https://github.com/yt-dlp/yt-dlp/releases/download/2024.07.02/yt-dlp",
-				"sha256": "5103eabc23aabe77d52d6a13313db550d8addca849257cdfe9a91861fb72e3c9"
+				"url": "https://github.com/yt-dlp/yt-dlp/releases/download/2024.08.01/yt-dlp",
+				"sha256": "d56bab5258b993f28d7cd73c638aabbbec674901ef2e764619142ad37b4a0975"
 			}]
 		},
 		{
@@ -38,8 +38,8 @@
 				{
 					"type": "git",
 					"url": "https://gitlab.com/zehkira/monophony.git",
-					"tag": "v2.13.0",
-					"commit": "0caef76bb5d075c938631242b4d0cd6ef19105bd"
+					"tag": "v2.14.0-pre.2",
+					"commit": "36bd6c730d0bedd53a489b1c75e291b305ee3e3d"
 				}
 			]
 		}
